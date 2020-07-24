@@ -84,9 +84,6 @@ function onlineOptionShow() {
     document.getElementById("bot").style.backgroundColor= "#f9d56e";
     document.getElementById("onlinefriend").style.backgroundColor= "#14b1ab";
     document.getElementById("friend").style.backgroundColor= "#f9d56e";
-    document.getElementById("l1").style.backgroundColor= "#f9d56e";
-    document.getElementById("l2").style.backgroundColor= "#f9d56e";
-    document.getElementById("l3").style.backgroundColor= "#f9d56e";
     var y = document.getElementById("botOptions");
     y.style.display = "none";
     document.getElementById("l1").disabled=true;
