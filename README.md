@@ -1,5 +1,6 @@
 # MARS-Project
 TIC TAC TOE GAME
+
 The aim of this project is to contribute in MARS COLONIZATION PROGRAM by making a web-based application of TIC TAC TOE game using Minimax algorithm.
 The design of our game consists of two parts:
 1. Human vs Friend: There is again two parts.
